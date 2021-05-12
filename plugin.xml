@@ -4,7 +4,7 @@
     id="cordova-plugin-bluetooth-bixolon-printer"
     version="1.7.1">
 
-    <name>BixolonPrint</name>
+    <name>Bixolon Printer Plugin for Apache Cordova</name>
     <description>Printing on Bixolon printers.</description>
     <license>Apache 2.0</license>
     <keywords>cordova,bixolon,print,ionic,bluetooth,printer</keywords>
