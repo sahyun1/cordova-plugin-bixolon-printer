@@ -26,6 +26,23 @@ $ cordova plugin add https://github.com/sahyun1/cordova-plugin-bixolon-printer.g
 
 ```
 
+### Using in Ionic
+
+Declare cordova on top of the file just after other imports
+```
+import {Component, OnInit} from '@angular/core';
+import {ActivatedRoute} from '@angular/router';
+
+declare let cordova: any;
+
+@Component({
+  selector: 'app-folder',
+  templateUrl: './folder.page.html',
+  styleUrls: ['./folder.page.scss'],
+})
+
+```
+
 ## Plugin Options
 
 ```javascript
