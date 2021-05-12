@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-bixolon-printer",
+  "name": "cordova-plugin-bluetooth-bixolon-printer",
   "version": "1.8.0",
   "description": "A Cordova/Phonegap driver for Bixolon printers",
   "cordova": {
-    "id": "cordova-plugin-bixolon-printer",
+    "id": "cordova-plugin-bluetooth-bixolon-printer",
     "platforms": [
       "ios",
       "android"
@@ -17,7 +17,7 @@
     "cordova",
     "bixolon",
     "printer",
-    "wifi",
+    "ionic",
     "bluetooth",
     "print",
     "cordova-android"
@@ -25,7 +25,7 @@
   "author": "Sahyun Kim <alstonkim88@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sahyun1/cordova-plugin-ble-central/issues"
+    "url": "https://github.com/sahyun1/cordova-plugin-bixolon-printer/issues"
   },
-  "homepage": "https://github.com/sahyun1/cordova-plugin-ble-central#readme"
+  "homepage": "https://github.com/sahyun1/cordova-plugin-bixolon-printer#readme"
 }

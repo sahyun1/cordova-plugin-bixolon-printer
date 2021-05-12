@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-bixolon-printer"
+    id="cordova-plugin-bluetooth-bixolon-printer"
     version="1.7.1">
 
     <name>BixolonPrint</name>
-    <description>Printing on Bixolon print.</description>
+    <description>Printing on Bixolon printers.</description>
     <license>Apache 2.0</license>
-    <keywords>cordova,bixolonprint</keywords>
+    <keywords>cordova,bixolon,print,ionic,bluetooth,printer</keywords>
 
-    <author>Alfonso Vinti</author>
+    <author>Alston Kim</author>
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
@@ -67,7 +67,7 @@
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="BixolonPrint">
-                <param name="android-package" value="cordova-plugin-bixolon-printer" />
+                <param name="android-package" value="cordova-plugin-bluetooth-bixolon-printer" />
             </feature>
         </config-file>
 

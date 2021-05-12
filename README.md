@@ -5,7 +5,7 @@ This is fork of https://github.com/diegorquera/cordova-plugin-bixolon-printer.
 
 I have got rid of android-support package to work with Latest Cordova-Android 9
 
-At this stage, I've only tested against Android.
+At this stage, I've only tested against Android and Bixolon SPP-R200III.
 
 Cross-platform BixolonPrint Plugin for Cordova / PhoneGap. Forked from [alfonsovinti](https://github.com/alfonsovinti/cordova-plugin-bixolon-print.git)
 
