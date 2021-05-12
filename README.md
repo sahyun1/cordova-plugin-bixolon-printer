@@ -22,7 +22,7 @@ Below are the methods for installing this plugin automatically using command lin
 ### Using the Cordova CLI
 
 ```
-$ cordova plugin add https://github.com/sahyun1/cordova-plugin-bixolon-print.git
+$ cordova plugin add https://github.com/sahyun1/cordova-plugin-bixolon-printer.git
 
 ```
 

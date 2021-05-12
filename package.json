@@ -6,12 +6,12 @@
     "id": "cordova-plugin-bixolon-printer",
     "platforms": [
       "ios",
-      "android",
+      "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sahyun1/cordova-plugin-bixolon-printer.git",
+    "url": "git+https://github.com/sahyun1/cordova-plugin-bixolon-printer.git"
   },
   "keywords": [
     "cordova",
