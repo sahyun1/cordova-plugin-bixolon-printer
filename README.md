@@ -253,7 +253,7 @@ cordova.plugins.bixolonPrint.printBarCode({
 }, function(error) {
   alert("print failure: " + error)
 }, {
-  codePage: cordova.plugins.bixolonPrint.CodePage.CP_THAI11
+  codePage: cordova.plugins.bixolonPrint.CodePage.CP_1252_LATIN1
 });
 ```
 ### Print QRCode
@@ -269,7 +269,7 @@ cordova.plugins.bixolonPrint.printQRCode({
 }, function(error) {
   alert("print failure: " + error)
 }, {
-  codePage: cordova.plugins.bixolonPrint.CodePage.CP_THAI11
+  codePage: cordova.plugins.bixolonPrint.CodePage.CP_1252_LATIN1
 });
 ```
 
