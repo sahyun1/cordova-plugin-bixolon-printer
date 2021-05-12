@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="it.alfonsovinti.cordova.plugins.bixolonprint"
+    id="cordova-plugin-bixolon-printer"
     version="1.7.1">
 
     <name>BixolonPrint</name>
@@ -67,7 +67,7 @@
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="BixolonPrint">
-                <param name="android-package" value="it.alfonsovinti.cordova.plugins.bixolonprint.BixolonPrint" />
+                <param name="android-package" value="cordova-plugin-bixolon-printer" />
             </feature>
         </config-file>
 
