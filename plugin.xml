@@ -67,7 +67,7 @@
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="BixolonPrint">
-                <param name="android-package" value="cordova-plugin-bluetooth-bixolon-printer" />
+                <param name="android-package" value="it.alfonsovinti.cordova.plugins.bixolonprint.BixolonPrint" />
             </feature>
         </config-file>
 
